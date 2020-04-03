@@ -1,6 +1,6 @@
-<img src='https://shapi1.000webhostapp.com/Capture.PNG' style="float: left">
-<img src='https://shapi1.000webhostapp.com/Capture1.PNG'>
-<img src='https://shapi1.000webhostapp.com/Capture2.PNG'>
+<img src='https://shapi1.000webhostapp.com/Capture.PNG' style="float:left">
+<img src='https://shapi1.000webhostapp.com/Capture1.PNG' style="float:left">
+<img src='https://shapi1.000webhostapp.com/Capture2.PNG' style="float:left">
 
 # api
 
